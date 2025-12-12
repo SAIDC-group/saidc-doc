@@ -1,0 +1,1 @@
+import{g as f,at as m}from"./BaIqpxU5.js";function p(o){const{navigation:i}=f(),r=[],a=o.split(/[/#]/g).filter(t=>t!=="");let e="",n=i.value;if(!n)return[];const{locale:c}=m();for(let t=0;t<a.length;t++){const s=a[t].replace(".html","");e+=`/${s}`;const l=n?.find(u=>u._path===e);n=l?.children,t===0&&s===c.value||r.push({title:l?.title??s,href:e})}return r}export{p as u};
