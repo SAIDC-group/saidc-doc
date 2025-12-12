@@ -1,0 +1,22 @@
+{
+  "name": "saidc-doc",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev --port 3001",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare",
+    "launch": "pnpm generate && touch .output/public/.nojekyll && echo 'saidc-doc.pipetil.com' > .output/public/CNAME && gh-pages -d .output/public --dotfiles -r git@github.com:SAIDC-group/saidc-doc.git"
+  },
+  "dependencies": {
+    "nuxt": "^3.20.1",
+    "shadcn-docs-nuxt": "1.1.2",
+    "vue": "^3.5.25",
+    "vue-router": "^4.6.3"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
+}
