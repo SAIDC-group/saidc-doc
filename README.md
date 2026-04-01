@@ -1,6 +1,6 @@
-# SAIDC Documentation
+# TurboMesh Documentation
 
-Documentation site for SAIDC built with [shadcn-docs-nuxt](https://github.com/ZTL-UwU/shadcn-docs-nuxt).
+Documentation site for TurboMesh built with [shadcn-docs-nuxt](https://github.com/ZTL-UwU/shadcn-docs-nuxt).
 
 ## Setup
 

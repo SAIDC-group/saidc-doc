@@ -1,8 +1,8 @@
 export default defineAppConfig({
   shadcnDocs: {
     site: {
-      name: 'SAIDC',
-      description: 'Beautifully designed Nuxt Content template built with SAIDC. Customizable. Compatible. Open Source.',
+      name: 'TurboMesh',
+      description: 'Beautifully designed Nuxt Content template built with TurboMesh. Customizable. Compatible. Open Source.',
     },
     theme: {
       customizable: false,
@@ -10,7 +10,7 @@ export default defineAppConfig({
       radius: 0.5,
     },
     header: {
-      title: 'SAIDC',
+      title: 'TurboMesh',
       showTitle: true,
       darkModeToggle: true,
       languageSwitcher: {

@@ -1,13 +1,13 @@
 ---
 title: 介绍
-description: SAIDC 是一个使用 Nuxt Content 和 SAIDC 构建的 Nuxt 文档模板。
+description: TurboMesh 是一个使用 Nuxt Content 和 TurboMesh 构建的 Nuxt 文档模板。
 icon: lucide:info
 navigation: false
 ---
 
 ## 动机
 
-**SAIDC** 是作为 [Docus](https://docus.dev/) 和 [Nuxt UI Pro Docs](https://docs-template.nuxt.dev/) 的免费替代文档解决方案而创建的。
+**TurboMesh** 是作为 [Docus](https://docus.dev/) 和 [Nuxt UI Pro Docs](https://docs-template.nuxt.dev/) 的免费替代文档解决方案而创建的。
 
 ## 功能
 
